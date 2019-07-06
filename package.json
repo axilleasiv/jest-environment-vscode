@@ -1,0 +1,11 @@
+{
+  "name": "jest-environment-vscode",
+  "version": "1.0.0",
+  "description": "jest environment for vscode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Achilleas Kiritsakas",
+  "license": "MIT"
+}
